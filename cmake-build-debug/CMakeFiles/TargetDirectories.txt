@@ -1,0 +1,3 @@
+D:/studia/sem2/OSCP/better_museum/cmake-build-debug/CMakeFiles/better_museum.dir
+D:/studia/sem2/OSCP/better_museum/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/studia/sem2/OSCP/better_museum/cmake-build-debug/CMakeFiles/rebuild_cache.dir
